@@ -1,4 +1,4 @@
-package tech.pratikacharya.apps.jmssender;
+package tech.pratikacharya.apps.messaging;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;

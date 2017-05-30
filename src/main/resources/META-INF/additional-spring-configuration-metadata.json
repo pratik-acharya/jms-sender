@@ -1,0 +1,19 @@
+{
+  "properties": [{
+    "name": "messaging.jms.queue",
+    "type": "java.lang.String",
+    "description": "The Queue name"
+  },{
+    "name": "messaging.jms.topic",
+    "type": "java.lang.String",
+    "description": "The Topic name"
+  },{
+    "name": "messaging.jms.rate-queue",
+    "type": "java.lang.String",
+    "description": "The Rate queue name"
+  },{
+    "name": "messaging.jms.rate-reply-queue",
+    "type": "java.lang.String",
+    "description": "The Rate reply queue name"
+  }]
+}
